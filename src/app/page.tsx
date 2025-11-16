@@ -34,7 +34,7 @@ export default function HomePage() {
               </p>
 
               <p className="text-xl opacity-80 max-w-lg text-black">
-                25+ years of passion
+                55+ years of passion
               </p>
 
               <Link href="/products">
